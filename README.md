@@ -15,7 +15,7 @@ Build a React component that displays damage points on a vehicle body. To demo i
 ## Requirements
 
 - [ ] Damage points are fetched from http://www.mocky.io/v2/5e1f0a50310000360018969a
-- [ ] Component supports both front and rear damage points
+- [ ] Component supports both front and rear damage points. _Please note that rear points should only be shown in rear view_
 - [ ] User can select damage point and it’s highlighted
 - [ ] Share code as a private repo on GitHub. Add [@Cinamonas](https://github.com/Cinamonas/) as a collaborator for review
 - [ ] `README` should include instructions on how to run the app for testing
