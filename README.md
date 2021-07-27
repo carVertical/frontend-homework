@@ -42,7 +42,8 @@ Click <kbd>▶</kbd> button in the toolbar to view an interactive prototype:
     }
   }
   ```
-- [ ] Components use [React Hooks](https://reactjs.org/docs/hooks-reference.html)
+- [ ] Use [React Hooks](https://reactjs.org/docs/hooks-reference.html)
+- [ ] Write at least one test
 - [ ] Share code as a private repo on GitHub. Add [@Cinamonas](https://github.com/Cinamonas/) as a collaborator for review
 - [ ] `README` should include instructions on how to run the app for testing
 
