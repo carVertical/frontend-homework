@@ -44,7 +44,7 @@ Click <kbd>▶</kbd> button in the toolbar to view an interactive prototype:
   ```
 - [ ] Use [React Hooks](https://reactjs.org/docs/hooks-reference.html)
 - [ ] Write at least one test
-- [ ] Share code as a private repo on GitHub. Add [@Cinamonas](https://github.com/Cinamonas/) as a collaborator for review
+- [ ] Share code as a private repo on GitHub. Add [@and1-lt](https://github.com/and1-lt/) as a collaborator for review
 - [ ] `README` should include instructions on how to run the app
 - [ ] Deploy the app somewhere
 
