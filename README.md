@@ -12,10 +12,10 @@ Click <kbd>▶</kbd> button in the toolbar to view an interactive prototype:
 
 ## Endpoints
 
-- Get packages: [`GET /packages`](https://run.mocky.io/v3/d6338d9d-a4ce-4054-9781-c0f0cfe2392d)
-- Get VAT rates: [`GET /vatRates`](https://run.mocky.io/v3/208cbd1e-0d11-4b3e-b54e-5f17a2b46012)
+- Get packages: [`GET /packages`](https://run.mocky.io/v3/aa081680-703f-4b53-b77c-56def382801d)
+- Get VAT rates: [`GET /vatRates`](https://run.mocky.io/v3/0387e8ab-750c-4718-be0f-87f7f7b891d6)
 - Get user’s country (IP geolocation): [`GET /ip`](https://ipapi.co/json/)
-- Create order: [`POST /orders`](https://run.mocky.io/v3/7b3ca122-9107-42f6-ba84-1a3056849410)
+- Create order: [`POST /orders`](https://run.mocky.io/v3/92b43592-fd5d-43de-b700-a0fea5d1525d)
 
 ## Requirements
 
